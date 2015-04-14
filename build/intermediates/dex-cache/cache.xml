@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/WoodsFamily/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/WoodsFamily/Documents/UW_classes/SPR_15/INFO_498/hw3/ActivitySpy/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-94a8ca8c8b84c03f81d8428b9cc6e64a80c60c32.jar" />
+    </item>
+    <item
+        jar="/Users/WoodsFamily/Documents/UW_classes/SPR_15/INFO_498/hw3/ActivitySpy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/WoodsFamily/Documents/UW_classes/SPR_15/INFO_498/hw3/ActivitySpy/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-0a7bf30982908553737e500451162acbcc93394d.jar" />
+    </item>
+    <item
+        jar="/Users/WoodsFamily/Documents/UW_classes/SPR_15/INFO_498/hw3/ActivitySpy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/WoodsFamily/Documents/UW_classes/SPR_15/INFO_498/hw3/ActivitySpy/app/build/intermediates/pre-dexed/debug/classes-2d6d650a43cea1b292c2433069d8a67b0a3d0c67.jar" />
+    </item>
+    <item
+        jar="/Users/WoodsFamily/Documents/UW_classes/SPR_15/INFO_498/hw3/ActivitySpy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/WoodsFamily/Documents/UW_classes/SPR_15/INFO_498/hw3/ActivitySpy/app/build/intermediates/pre-dexed/debug/classes-6522a8fdcc3bebd385b15457c15e0ac68f0eba37.jar" />
+    </item>
+
+</items>
